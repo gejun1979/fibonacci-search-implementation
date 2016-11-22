@@ -1,0 +1,1 @@
+This is an implementation for fibonacci search and binary lookup table search. The implementation is faster than STL upper_bound, and it is tested with the test code included. If you have any questions or concerns, you can contact me with tassardge@hotmail.com
